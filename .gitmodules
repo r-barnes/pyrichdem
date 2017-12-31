@@ -1,0 +1,3 @@
+[submodule "lib/richdem"]
+	path = lib/richdem
+	url = git@github.com:r-barnes/richdem.git
